@@ -202,7 +202,8 @@ input{
     p {
         font-size: 16px;
     }
-    .modal {
-        width: 300px;
+    input {
+        padding: 8px;
+        font-size: 12px;
     }
 }
